@@ -1,6 +1,6 @@
 # my-talks
 
-> All my talks in one place.
+> All my talks in one place. (Some talks I have left it deliberately)
 
 ### 2019
 
