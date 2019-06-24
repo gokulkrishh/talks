@@ -23,7 +23,7 @@
 | Date              | Title                    | Location                   | Event               |
 | ----------------- | ------------------------ | -------------------------- | --------------------|
 | Oct 14             | [Do's and Don'ts in Progressive Web Applications](https://docs.google.com/presentation/d/1XiUHf4YErRX0tJd5PEEBrr4qHzKPM3mr-fFIRdyb8pQ/edit?usp=sharing)    | Chennai   | Solve for India            |
-| Apr 28             | [[Progressive Web Application](https://docs.google.com/presentation/d/1dezR-jntsTSI-SKWDUbtmwBt2rJ9qyylpuxM7ydgs1w/edit)    | Bangalore, Thoughtworks Office   | UI Catchup            |
+| Apr 28             | [Progressive Web Application](https://docs.google.com/presentation/d/1dezR-jntsTSI-SKWDUbtmwBt2rJ9qyylpuxM7ydgs1w/edit)    | Bangalore, Thoughtworks Office   | UI Catchup            |
 | Jan 23            | [ReactJS and Create-React-App](https://docs.google.com/presentation/d/1OixGz72qcJOpb3NC2BDINOHB_7PGp5LsrmyrXsDXDp4/edit#slide=id.p)    | Bangalore, Ephicacy Lifescience Analytics Office   | Office Level            |
 
 
@@ -32,6 +32,6 @@
 | Date              | Title                    | Location                   | Event               |
 | ----------------- | ------------------------ | -------------------------- | --------------------|
 | Nov 21            | [Progressive Web Application](https://docs.google.com/presentation/d/1dezR-jntsTSI-SKWDUbtmwBt2rJ9qyylpuxM7ydgs1w/edit)    | Bangalore, Ephicacy Lifescience Analytics Office     | Office Level            |
-| Oct 22            | [PWA Codelabs](https://github.com/code-kotis/pwa-codelabs), Bangalore (Ephicacy Office)    | Bangalore, Google Office     | Google DevFest           |
-| Jan 21            | [Angular 2 Intro](https://docs.google.com/presentation/d/1lBTU4_haLt6MT68F-Aw-kRkkaSMaFCS7KlgYmYCEQsE/edit#slide=id.gc6f73a04f_0_0), Bangalore (Ephicacy Office)    | Bangalore, Ephicacy Lifescience Analytics Office     | Office Level            |
+| Oct 22            | [PWA Codelabs](https://github.com/code-kotis/pwa-codelabs)    | Bangalore, Google Office     | Google DevFest           |
+| Jan 21            | [Angular 2 Intro](https://docs.google.com/presentation/d/1lBTU4_haLt6MT68F-Aw-kRkkaSMaFCS7KlgYmYCEQsE/edit#slide=id.gc6f73a04f_0_0)   | Bangalore, Ephicacy Lifescience Analytics Office     | Office Level            |
 
