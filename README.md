@@ -4,8 +4,10 @@
 
 ### 2019
 
-- May 11 2019 » [Performance Budgeting](https://docs.google.com/presentation/d/1ne7SqVT1CzrVuHIFfSdUuWYkgEYfhnnbOxYgJgcy3bs/edit#slide=id.p), Bangalore (PaypalJS - Paypal Office)
-- Apr 07 2019 » [Lets Talk Web Performance](https://docs.google.com/presentation/d/1If2_RCcxu9ICHsAQ06t1zUP8bE1wunBWb2Bm9qNimGg/edit#slide=id.p1), Bangalore (Unfold UI - Thoughtworks Office)
+| Date              | Title                    | Location                   | Event               |
+| ----------------- | ------------------------ | -------------------------- | --------------------|
+| May 11            | [Performance Budgeting](https://docs.google.com/presentation/d/1ne7SqVT1CzrVuHIFfSdUuWYkgEYfhnnbOxYgJgcy3bs/edit#slide=id.p)    | Bangalore, Paypal Office   | PaypalJs            |
+| Apr 07            | [Lets Talk Web Performance](https://docs.google.com/presentation/d/1If2_RCcxu9ICHsAQ06t1zUP8bE1wunBWb2Bm9qNimGg/edit#slide=id.p1)    | Bangalore, Thoughtworks Office   | UnFold UI            |
 
 ### 2018
 
