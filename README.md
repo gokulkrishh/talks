@@ -6,6 +6,8 @@
 
 | Date              | Title                    | Location                   | Event               |
 | ----------------- | ------------------------ | -------------------------- | --------------------|
+| July 29            | [Intro to ReactJS in 2019](https://docs.google.com/presentation/d/1iCtNr8xlH6uufLQ01OFvBqce19CzCOoyqGvqAVCGbSw/edit#slide=id.g5e4b92bcb9_0_0)    | Bangalore, Thoughtworks Kormangala Office   | Office Level            |
+| July 11            | [Serverless for Frontend Developers](https://docs.google.com/presentation/d/1LmWcHfBRdEOksGdatROygwdcWk8MMF6Hy4kK40Qy2h8/edit#slide=id.gc6f73a04f_0_0)    | Bangalore, Thoughtworks Kormangala Office   | UI Catchup            |
 | May 11            | [Performance Budgeting](https://docs.google.com/presentation/d/1ne7SqVT1CzrVuHIFfSdUuWYkgEYfhnnbOxYgJgcy3bs/edit#slide=id.p)    | Bangalore, Paypal Office   | PaypalJs            |
 | Apr 07            | [Lets Talk Web Performance](https://docs.google.com/presentation/d/1If2_RCcxu9ICHsAQ06t1zUP8bE1wunBWb2Bm9qNimGg/edit#slide=id.p1)    | Bangalore, Thoughtworks Office   | UnFold UI            |
 
