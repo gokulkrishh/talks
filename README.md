@@ -6,7 +6,7 @@
 
 | Date              | Title                    | Location                   | Event               |
 | ----------------- | ------------------------ | -------------------------- | --------------------|
-| August 14            | [Technical Committee 39 (TC39)](https://docs.google.com/presentation/d/1g7YZibJF0LMpWAyEl6AONC3WPHJSwxOiy0Dq9taQKK4/edit?usp=sharing)    | Bangalore, ThoughtWorks Kormangala Office   | UI Catchup            |
+| Aug 14            | [Technical Committee 39 (TC39)](https://docs.google.com/presentation/d/1g7YZibJF0LMpWAyEl6AONC3WPHJSwxOiy0Dq9taQKK4/edit?usp=sharing)    | Bangalore, ThoughtWorks Kormangala Office   | UI Catchup            |
 | July 29            | [Intro to ReactJS in 2019](https://docs.google.com/presentation/d/1iCtNr8xlH6uufLQ01OFvBqce19CzCOoyqGvqAVCGbSw/edit#slide=id.g5e4b92bcb9_0_0)    | Bangalore, ThoughtWorks Kormangala Office   | Office Level            |
 | July 11            | [Serverless for Frontend Developers](https://docs.google.com/presentation/d/1LmWcHfBRdEOksGdatROygwdcWk8MMF6Hy4kK40Qy2h8/edit#slide=id.gc6f73a04f_0_0)    | Bangalore, ThoughtWorks Kormangala Office   | UI Catchup            |
 | May 11            | [Performance Budgeting](https://docs.google.com/presentation/d/1ne7SqVT1CzrVuHIFfSdUuWYkgEYfhnnbOxYgJgcy3bs/edit#slide=id.p)    | Bangalore, Paypal Office   | PaypalJs            |
