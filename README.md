@@ -2,6 +2,13 @@
 
 > All my talks in one place. (Some talks I have left it deliberately)
 
+### 2020
+
+| Date              | Title                    | Location                   | Event               |
+| ----------------- | ------------------------ | -------------------------- | --------------------|
+| Feb 13            | [Introduction to Web Assembly (WASM)](https://docs.google.com/presentation/d/1iJ82ax5OH1phIyxTyR7OIICjpq5GGhECnxyWIIsOU6o/edit?usp=sharing)    | Bangalore, ThoughtWorks Kormangala Office   | UI Community            |
+
+
 ### 2019
 
 | Date              | Title                    | Location                   | Event               |
